@@ -8,12 +8,14 @@
 
 ### 프로토타입 
 
-![프로토타입](prototype.gif)
+![프로토타입](imgs/prototype.gif)
 
 ### Game
 
 ![mainmenu](imgs/mainmenu.PNG)
 ![mainmenu](imgs/battle.PNG)
+
+
 ### 사용 기술
 
 Unity
